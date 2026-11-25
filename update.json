@@ -1,0 +1,8 @@
+﻿{
+  "versionName": "4.3.5",
+  "versionCode": 435,
+  "tagName": "v4.3.5",
+  "releaseDate": "2026-11-25",
+  "description": "- Rilis perdana PersLrys Windows Landscape Edition v4.3.5 (Standalone Single-File .exe)\n- UI identik dengan PersLrys Android v4.3.5 dalam tata letak Landscape Desktop\n- Dynamic Island True Hide (Opacity 0%) + Swipe-Down Unhide (Opacity 100%)\n- 15 Font Kustom tertanam langsung + Lirik Tersinkronisasi Real-Time",
+  "downloadUrl": "https://github.com/gwkece01/PersLrys-Windows/releases/download/v4.3.5/PersLrys-Windows-v4.3.5.exe"
+}
