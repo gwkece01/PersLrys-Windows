@@ -1,8 +1,8 @@
 ﻿{
-  "versionName": "4.3.5",
-  "versionCode": 435,
-  "tagName": "v4.3.5",
+  "versionName": "4.3.6",
+  "versionCode": 436,
+  "tagName": "v4.3.6",
   "releaseDate": "2026-11-25",
-  "description": "- Rilis perdana PersLrys Windows Landscape Edition v4.3.5 (Standalone Single-File .exe)\n- UI identik dengan PersLrys Android v4.3.5 dalam tata letak Landscape Desktop\n- Dynamic Island True Hide (Opacity 0%) + Swipe-Down Unhide (Opacity 100%)\n- 15 Font Kustom tertanam langsung + Lirik Tersinkronisasi Real-Time",
-  "downloadUrl": "https://github.com/gwkece01/PersLrys-Windows/releases/download/v4.3.5/PersLrys-Windows-v4.3.5.exe"
+  "description": "- Aplikasi Windows Native Desktop (Embedded WebView2) — tanpa tampilan browser & bebas pop-up Translate\n- Mode Fullscreen Native penuh (F11 / tombol Fullscreen) tanpa menampilkan Taskbar Windows maupun notifikasi browser\n- Rightbar dioptimalkan ukurannya (264px) dengan cover persegi proporsional dan tombol Hide/Show Rightbar\n- Lirik musik tidak lagi otomatis tampil saat memutar lagu; kini tersedia tombol Lirik khusus di Downbar & Rightbar\n- Menu \"Saya\" dipindahkan ke pojok kanan atas sejajar dengan Recap dan Pengaturan\n- Animasi Leftbar halus mengikuti arah kursor mouse (60–144 FPS), hanya preview animasi saat hover dan kembali ke menu aktif saat kursor menjauh tanpa klik",
+  "downloadUrl": "https://github.com/gwkece01/PersLrys-Windows/releases/download/v4.3.6/PersLrys-Windows-v4.3.6.exe"
 }
